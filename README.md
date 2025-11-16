@@ -6,7 +6,7 @@ I've been exploring various tools for coding web pages because it's what I enjoy
 
 When I'm not staring endlessly at my laptop and punching code into it, I spend my time reading and hanging out with my family and friends. I also enjoy anime and completing 3D puzzles.
 
-### 📦 Favourite Tools and Languages
+### 🛠 Favourite Tools and Languages
 
 * CSS
 * JS/TS
